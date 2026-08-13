@@ -1,0 +1,67 @@
+[
+  {
+    "text": "Welcome",
+    "page": 1,
+    "is_bold": true,
+    "is_italic": false,
+    "line_order": 0,
+    "x0": null,
+    "top": null,
+    "x1": null,
+    "bottom": null,
+    "avg_font_size": null,
+    "font_names": []
+  },
+  {
+    "text": "This instance of DMPonline is provided by the Rotterdam University of Applied Sciences / Hogeschool Rotterdam to help you write data management plans. To access funders' guidance along with the tailored guidance from Hogeschool Rotterdam, you have to first create an account and then log in with your Hogeschool Rotterdam credentials.",
+    "page": 1,
+    "is_bold": false,
+    "is_italic": false,
+    "line_order": 1,
+    "x0": null,
+    "top": null,
+    "x1": null,
+    "bottom": null,
+    "avg_font_size": null,
+    "font_names": []
+  },
+  {
+    "text": "If you have trouble creating an account or logging in, please contact rps-datamanagement@hr.nl",
+    "page": 1,
+    "is_bold": false,
+    "is_italic": false,
+    "line_order": 2,
+    "x0": null,
+    "top": null,
+    "x1": null,
+    "bottom": null,
+    "avg_font_size": null,
+    "font_names": []
+  },
+  {
+    "text": "More detailed information about using the tool can be found in the DMPonline user guide on this page",
+    "page": 1,
+    "is_bold": false,
+    "is_italic": false,
+    "line_order": 3,
+    "x0": null,
+    "top": null,
+    "x1": null,
+    "bottom": null,
+    "avg_font_size": null,
+    "font_names": []
+  },
+  {
+    "text": "- or -",
+    "page": 1,
+    "is_bold": false,
+    "is_italic": false,
+    "line_order": 4,
+    "x0": null,
+    "top": null,
+    "x1": null,
+    "bottom": null,
+    "avg_font_size": null,
+    "font_names": []
+  }
+]

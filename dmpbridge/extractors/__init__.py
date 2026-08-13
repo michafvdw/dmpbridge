@@ -45,9 +45,13 @@ def get_extractor(name: str, **kwargs) -> BaseExtractor:
         from .lighton_extractor import LightOnExtractor
         return LightOnExtractor(**kwargs)
 
+    if name == "dmponline":
+        from .dmponline_extractor import DmponlineExtractor
+        return DmponlineExtractor()
+
     raise ValueError(
         f"Unknown extractor {name!r}. "
-        "Supported values: 'pdfplumber', 'docling', 'lighton'."
+        "Supported values: 'pdfplumber', 'docling', 'lighton', 'dmponline'."
     )
 
 
